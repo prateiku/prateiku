@@ -14,10 +14,5 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://github.com/Prateiku/)
 
-<br />
-<br />
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateiku&theme=tokyonight)
-<br/>
-<br />
 
