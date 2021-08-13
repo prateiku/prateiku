@@ -3,7 +3,7 @@
 <!--
 **Prateiku/Prateiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi there, I'm Pratik - aka [Prateiku][https://github.com/Prateiku] 👋
+### Hi there, I'm Pratik - aka [Prateiku][Github] 👋
 
 #
 ## I'm a Student, Coding enthusiast looking for an internship!!
@@ -34,3 +34,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateiku&theme=tokyonight)
 <br/>
 <br />
+[Github]:https://github.com/Prateiku/
