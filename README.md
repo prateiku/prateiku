@@ -14,5 +14,6 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://github.com/Prateiku/)
 <br>
 ### 📝 Most used languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateiku&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateiku&layout=compact)](https://github.com/prateiku/github-readme-stats)
+
 </br>
