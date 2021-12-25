@@ -10,9 +10,7 @@
 - ⚡ Working on different projects
 
 ### 🔗 Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://github.com/Prateiku/)
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](mailto:pratikchopane1021@gmail.com)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](mailto:pratikchopane102@gmail.com)
 <br>
 ### 📝 Most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateiku&layout=compact&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
