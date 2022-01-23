@@ -5,7 +5,6 @@
 
 ### 🎓 I'm a Student, Coding enthusiast looking for an internship!!
 
-- 📚 Learning javascript
 - 🥅 I’m looking to contribute more to Open Source projects
 - ⚡ Working on different projects
 
